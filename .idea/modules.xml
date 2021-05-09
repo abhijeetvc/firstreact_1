@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/firstreact.iml" filepath="$PROJECT_DIR$/.idea/firstreact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/firstreact_component_life_cycle.iml" filepath="$PROJECT_DIR$/.idea/firstreact_component_life_cycle.iml" />
     </modules>
   </component>
 </project>

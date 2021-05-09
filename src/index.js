@@ -2,6 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import CheckProps from './CheckProps';
 import ConditionalRender from './ConditionalRender';
+import MainComponent from './components/MainComponent';
+import ComponentLifeCycle from './components/ComponentLifeCycle';
+import EventHandling from './EventHandling';
+import CallbackEventHandling from './CallbackEventHandling';
 
  class Demo2 extends React.Component{
    constructor(){
@@ -60,7 +64,7 @@ import ConditionalRender from './ConditionalRender';
 // }
 
 ReactDOM.render(
-    <ConditionalRender/>
+    <CallbackEventHandling/>
 ,
   document.getElementById('root')
 );
